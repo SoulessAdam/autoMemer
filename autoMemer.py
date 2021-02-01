@@ -63,8 +63,7 @@ def checkPost(request1):
 
 url1 = "https://discord.com/api/v8/channels/{Channel ID Here}/messages"
 auth = {"Authorization": "Token Here"}
-jsonMsg = {"content": ""}
-jsonMsg["content"] = "```ini\n[Starting "+time.strftime("%H:%M:%S", time.localtime())+"]\n```"
+jsonMsg = {"content": "```ini\n[Starting "+time.strftime("%H:%M:%S", time.localtime())+"]\n```"}
 requests.post(url=url1, json=jsonMsg, headers=auth)
 
 while True:
