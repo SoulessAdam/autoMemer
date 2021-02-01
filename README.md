@@ -1,5 +1,5 @@
 # autoMemer
-Automated script/program for sending basic dank memer commands, made in 5 minutes with minimal effort and no concern for efficiency or a tidy code base. Written in python, uses basic libraries including in the default installation, built for windows however can be easily reproduced or edited to work on other platforms.
+Automated script/program for sending basic dank memer commands, made in 5 minutes with minimal effort and no concern for efficiency or a tidy code base. Written in python, uses basic libraries included in the default installation, built for windows however can be easily reproduced or edited to work on other platforms.
 
 ## Instructions for use: 
 ### Intercepting a good post request:
