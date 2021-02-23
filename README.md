@@ -16,7 +16,7 @@ Automated script/program for sending basic dank memer commands, made in 5 minute
   * Hunting Rifle
   * Laptop
   * Fishing Pole
-  * Lifesavers (Random Events may kill you, be wary, this is a precautionary item)
+  * Lifesavers (Random Events may kill you, be wary. This is a precautionary item)
 
 * To stop the script use the Keyboard Interrupt shortcut, ``Control``+``C`` to stop, or close the Python window.
 
